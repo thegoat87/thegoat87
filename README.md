@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @thegoat87
+- 👋 Hi
+- <!---, I’m @thegoat87
 <!--- 👀 I’m interested in web development
 - 🌱 I’m currently learning front end basics
 - 💞️ I’m looking to collaborate on ...
